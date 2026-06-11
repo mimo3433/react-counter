@@ -39,4 +39,3 @@ All centered on the screen with a soft gradient background.
 ### 1. Install dependencies
 ```bash
 npm install
-npm run dev
